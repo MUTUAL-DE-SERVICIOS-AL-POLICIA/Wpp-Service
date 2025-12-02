@@ -27,6 +27,7 @@ dist/
 sessions/
 .webwjs_auth/
 .webwjs_cache/
+.wwebjs_cache/
 
 # TypeScript
 *.tsbuildinfo
