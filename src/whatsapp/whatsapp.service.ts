@@ -20,6 +20,7 @@ export class WhatsappService {
         dataPath: "./sessions",
       }),
       puppeteer: {
+        executablePath: '/usr/bin/chromium',
         headless: true,
         args: [
           '--no-sandbox',
